@@ -2,5 +2,5 @@
 - Task was to implement a provided cellular automation renderer written in C, and rewrite it in MIPS assembly code.
 - This project had a focus on gaining experience writing MIPS assembly code, and using data and control stuctures in MIPS.
 - Project Spec can be found in spec.md.
-- Application is very difficult to run outside of a unsw cse machine (as it is run using the provided command ```1521 spim -f cellular.s```
+- Application is very difficult to run outside of a unsw cse machine (as it is run using the provided command ```1521 spim -f cellular.s```)
 - A final mark of 97/100 was awarded and was worth 15% of grade.

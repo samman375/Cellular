@@ -184,14 +184,14 @@ This assignment will contribute 15 marks to your final COMP1521 mark.
 
 An indicative assessment scheme follows. The lecturer may vary the assessment scheme after inspecting the assignment submissions, but it is likely to be broadly similar to the following:
 
-Score | Explanation
-*** | ***
-HD (85+) | beautiful documented code, which uses the stack with MIPS calling conventions, and implements spec perfectly
-DN (75+) | very readable code, prints cells correctly if n_generations positive or negative, all rules correctly handled
-CR (65+) | readable code, prints cells correctly if n_generations positive, rules mostly working
-PS (55+) | prints initial world (first line) correctly and sometimes more correct lines
-PS (50+) | good progress on assignment but not passing autotests
-0% | knowingly providing your work to anyone and it is subsequently submitted (by anyone).
+| Score | Explanation |
+| --- | --- |
+| HD (85+) | beautiful documented code, which uses the stack with MIPS calling conventions, and implements spec perfectly |
+| DN (75+) | very readable code, prints cells correctly if n_generations positive or negative, all rules correctly handled |
+| CR (65+) | readable code, prints cells correctly if n_generations positive, rules mostly working |
+| PS (55+) | prints initial world (first line) correctly and sometimes more correct lines |
+| PS (50+) | good progress on assignment but not passing autotests |
+| 0% | knowingly providing your work to anyone and it is subsequently submitted (by anyone). |
 
 ***Intermediate Versions of Work***
 
